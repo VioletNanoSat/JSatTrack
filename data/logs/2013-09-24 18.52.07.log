@@ -1,0 +1,10 @@
+2013-09-24T18:52:12.020-04:00: Deleted Satellite: ISS (ZARYA)             
+2013-09-24T18:52:13.161-04:00: Custom TLE data loaded from file: (Custom,amsat)amsat.txt
+2013-09-24T18:52:13.161-04:00: Custom TLE data loaded from file: (Custom,cusat)cusat.txt
+2013-09-24T18:52:17.911-04:00: ERROR adding satellite to scenarion, bad TLE data: CUSAT
+2013-09-24T18:52:59.442-04:00: Custom TLE data loaded from file: (Custom,amsat)amsat.txt
+2013-09-24T18:52:59.457-04:00: Custom TLE data loaded from file: (Custom,cusat)cusat.txt
+2013-09-24T18:53:05.661-04:00: Warning: Error Reading numb or elnum from TLE line 1 sat#:99999
+2013-09-24T18:53:05.676-04:00: Warning: Error Reading revnum from TLE line 2 sat#:99999
+java.lang.StringIndexOutOfBoundsException: String index out of range: 68
+2013-09-24T18:53:05.676-04:00: ERROR adding satellite to scenarion, bad TLE data: CUSAT

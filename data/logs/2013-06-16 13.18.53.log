@@ -1,0 +1,1045 @@
+2013-06-16T13:19:14.839-04:00: Stable Library
+2013-06-16T13:19:14.839-04:00: =========================================
+2013-06-16T13:19:14.839-04:00: Native lib Version = RXTX-2.1-7
+2013-06-16T13:19:14.839-04:00: Java lib Version   = RXTX-2.1-7
+2013-06-16T13:20:49.777-04:00: 
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:S 1?BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
+TS 1APO 0BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
+TS 1APO 0BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
+TS 1APO 0BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
+TS 1APO 0BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
+TS 1APO 0BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
+TS 1APO 0BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
+TS 1APO 0BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
+TS 1?BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
+TS 1APO 0BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
+TS 1APO 0BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
+TS 1?BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+2013-06-16T13:54:43.933-04:00: 	at edu.cusat.gs.rfgateway.GatewayMgr.notifyTcpOfTncConnection(GatewayMgr.java:160)
+2013-06-16T13:54:43.933-04:00: 	at edu.cusat.gs.rfgateway.GatewayMgr.connectToSim(GatewayMgr.java:299)
+2013-06-16T13:54:43.933-04:00: 	at edu.cusat.gs.gui.RfGatewayPanel.simConnectBtnActionPerformed(RfGatewayPanel.java:120)
+2013-06-16T13:54:43.933-04:00: 	at edu.cusat.gs.gui.RfGatewayPanel.access$3(RfGatewayPanel.java:118)
+2013-06-16T13:54:43.964-04:00: 	at edu.cusat.gs.gui.RfGatewayPanel$3.actionPerformed(RfGatewayPanel.java:325)
+2013-06-16T13:54:43.964-04:00: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at org.jvnet.substance.utils.RolloverButtonListener.mouseReleased(RolloverButtonListener.java:111)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.Component.processMouseEvent(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.Component.processEvent(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.Container.processEvent(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.EventQueue$3.run(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.EventQueue$3.run(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2013-06-16T13:54:43.964-04:00: 	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.EventQueue$4.run(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.EventQueue$4.run(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2013-06-16T13:54:43.964-04:00: 	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2013-06-16T13:54:43.964-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)
+2013-06-16T13:55:22.823-04:00: TS 1?BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
+TS 1APO 0BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
+TS 1APO 0BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
+TS 1APO 0BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
+TS 1APO 0BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
+TS 1APO 0BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
+TS 1?BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
+TS 1?BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
+TS 1APO 0BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
+TS 1?BC 1DTB 1PC 1,3FQ 00437405000,6SV 0DL 0?
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:RESET
+
+
+
+bbRAM loaded with defaults
+
+
+
+TASCO Radio Modem
+AX.25 Level 2 Version 2.0
+Release 09/15/99 2Chip ver 2.00
+Checksum $CF
+cmd:
+cmd:HB 1200
+HBAUD    was 1200
+cmd:
+cmd:F OFF
+FLOW     was ON
+cmd:
+cmd:XFLOW OFF
+XFLOW    was ON
+cmd:
+cmd:PACLEN 0
+PACLEN   was 128
+cmd:
+cmd:MAXFRAME 1
+MAXFRAME was 4
+cmd:
+cmd:PPERSIST OFF
+PPERSIST was ON
+cmd:
+cmd:KISS ON
+KISS     was OFF
+cmd:RESTART
