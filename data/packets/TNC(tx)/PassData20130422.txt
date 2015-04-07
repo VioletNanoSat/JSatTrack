@@ -1,4 +1,0 @@
-Azimuth: 270.0/Elevation: NaN/Range: 0.0
-Azimuth: 270.0/Elevation: NaN/Range: 0.0
-Azimuth: 270.0/Elevation: NaN/Range: 0.0
-Azimuth: 270.0/Elevation: NaN/Range: 0.0
