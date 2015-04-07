@@ -1,0 +1,120 @@
+package edu.cusat.gs.rfgateway;
+
+import java.nio.ByteBuffer;
+import java.nio.charset.Charset;
+
+public class Callsign {
+
+    private static final int LENGTH = 7;
+
+    private String callstring;
+    private byte ssid; // can it be an int? no
+
+    private static final Charset ASCII = Charset.forName("ASCII");
+    public static final Callsign TOP = new Callsign("TOPTOP", (byte) 0);
+    public static final Callsign BOTTOM = new Callsign("BOTTOM", (byte) 0);
+    public static final Callsign GROUND = new Callsign("GROUND", (byte) 0);
+
+    /**
+     * Create a callsign with SSID=0
+     */
+    public Callsign(String callsign) { this(callsign, (byte)0); }
+    
+    public Callsign(String callsign, byte ssid) {
+        if (callsign.length() >= LENGTH) {
+            throw new IllegalArgumentException("Callsigns must be less than "
+                    + LENGTH + " characters long");
+        } else {
+            // Add spaces, if necessary
+            while(callsign.length() < LENGTH - 1) {
+                callsign += " ";
+            }
+            this.callstring = callsign;
+            this.ssid = ssid;
+        }
+    }
+
+    public Callsign(byte[] rxBuffer) {
+        if (rxBuffer.length != LENGTH) {
+            byte[] b = new byte[LENGTH];
+            System.arraycopy(rxBuffer, 0, b, 0, LENGTH);
+            rxBuffer = b;
+        }
+        for (int i = 0; i < -1+rxBuffer.length; i++) {
+            int tmp = 0x000000FF & (int)rxBuffer[i];
+            rxBuffer[i] = (byte) ( tmp >> 1);
+        }
+        callstring = ASCII.decode(
+                ByteBuffer.wrap(rxBuffer, 0, LENGTH - 1)).toString();
+        ssid = (byte) (rxBuffer[LENGTH - 1] & 0x1F);
+    }
+    
+    /**
+     * Create a callsign from the bytes the simulator sends us. Note that the 
+     * simulator does NOT left shift each byte the way AX.25 specifies!
+     * @param packetSlice the 7 bytes of callsign
+     * @return the correct callsign object
+     */
+    public static Callsign fromSimPacket(byte[] packetSlice) {
+    	for(int i=0; i<LENGTH-1; i++) {
+    		packetSlice[i] = (byte) (packetSlice[i]<<1);
+    	}packetSlice[LENGTH-1] = 0;
+    	return new Callsign(packetSlice);
+    }
+
+    public byte[] toArray(boolean isSrc) {
+        byte[] ret = new byte[LENGTH];
+        for (int i = 0; i < callstring.length(); i++) {
+        	ret[i] = (byte)ASCII.decode(ByteBuffer.wrap(new byte[]{(byte)callstring.charAt(i)})).get();
+            ret[i] = (byte)(ret[i] << 1);
+        }
+        // Add the SSID, plus some misc. stuff according to
+        // AX.25 spec, section 3.12
+        ret[LENGTH - 1] = (byte) (ssid | 0xE0 | (isSrc ? 1 : 0));
+        return ret;
+    }
+
+    public String getCallString() { return callstring; }
+
+    public byte getSsid() { return ssid; }
+    
+    public static int length(){ return LENGTH; }
+
+/////////////////////////////// Object overrides /////////////////////////////// 
+        
+    @Override public String toString() { return callstring + ssid; }
+    
+	@Override
+	public int hashCode() {
+		return 31+ ((callstring == null) ? 0 : callstring.hashCode());
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj) return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Callsign other = (Callsign) obj;
+		if (callstring == null) {
+			if (other.callstring != null)
+				return false;
+		} else if (!callstring.equals(other.callstring))
+			return false;
+		return true;
+	}
+	
+	public boolean equals(byte[] arr) {
+        boolean ret = true;
+        byte[] me = toArray(false);
+        for(int i = 0; i < LENGTH-1; i++){
+            ret = ret && me[i] == arr[i];
+        }
+        return ret;
+    }
+
+	public boolean equalsIgnoreSsid(Callsign call) {
+    		return callstring.equals(call.callstring);
+    }
+}

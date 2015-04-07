@@ -1,0 +1,3 @@
+2013-09-28T14:59:26.693-04:00: Custom TLE data loaded from file: (Custom,amsat)amsat.txt
+2013-09-28T14:59:26.693-04:00: Custom TLE data loaded from file: (Custom,cusat)cusat.txt
+2013-09-28T15:07:18.271-04:00: ERROR adding satellite to scenarion, bad TLE data: CUSAT

@@ -1,0 +1,15 @@
+// Shawn E. Gano
+// 21 March 2008
+// Example plugin script
+// asks user for a color using color chooser, then sets all the satellites colors
+
+// get a color default is blue
+Color newColor = JColorChooser.showDialog(jsattrak,"Choose Satellite Colors",Color.blue);
+
+for(AbstractSatellite : jsattrak.satellites())
+{ 
+    sat.setSatColor(newColor); // set the color
+}
+
+// repaint so the user can see the changes
+jsattrak.forceRepainting(); 

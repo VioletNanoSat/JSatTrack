@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/gov/nasa/worldwind/layers/Mercator/examples
+END
+VirtualEarthLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/gov/nasa/worldwind/layers/Mercator/examples/VirtualEarthLayer.java
+END
+OSMCycleMapLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/gov/nasa/worldwind/layers/Mercator/examples/OSMCycleMapLayer.java
+END
+OSMMapnikLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/gov/nasa/worldwind/layers/Mercator/examples/OSMMapnikLayer.java
+END
+VirtualEarthLogo.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/gov/nasa/worldwind/layers/Mercator/examples/VirtualEarthLogo.java
+END
+OSMMapnikTransparentLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/gov/nasa/worldwind/layers/Mercator/examples/OSMMapnikTransparentLayer.java
+END
+YahooMapsLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/gov/nasa/worldwind/layers/Mercator/examples/YahooMapsLayer.java
+END
+logo_msve.png
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/gov/nasa/worldwind/layers/Mercator/examples/logo_msve.png
+END

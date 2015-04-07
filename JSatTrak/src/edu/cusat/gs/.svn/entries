@@ -1,0 +1,52 @@
+10
+
+dir
+6606
+https://cusat.cornell.edu/svn/CUSatRepository/GroundCode/trunk/JSatTrak/src/edu/cusat/gs
+https://cusat.cornell.edu/svn/CUSatRepository
+
+
+
+2013-04-09T10:53:44.692894Z
+6606
+mag222
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+eddebd62-96ab-794d-8e24-0337c6b6d264
+
+rawpacket
+dir
+
+unused
+dir
+
+gui
+dir
+
+doppler
+dir
+
+ts2000
+dir
+
+rfgateway
+dir
+
+rotator
+dir
+
+util
+dir
+

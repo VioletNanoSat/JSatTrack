@@ -1,0 +1,199 @@
+/*
+ * =====================================================================
+ * Copyright (C) 2009 Shawn E. Gano
+ *
+ * This file is part of JSatTrak.
+ *
+ * JSatTrak is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Lesser General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * JSatTrak is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with JSatTrak.  If not, see <http://www.gnu.org/licenses/>.
+ * =====================================================================
+ */
+
+package name.gano.worldwind.modelloader;
+
+import gov.nasa.worldwind.geom.Position;
+import gov.nasa.worldwind.geom.Vec4;
+import gov.nasa.worldwind.layers.AbstractLayer;
+import gov.nasa.worldwind.render.DrawContext;
+
+import java.util.Vector;
+
+import javax.media.opengl.GL;
+
+import net.java.joglutils.model.examples.DisplayListRenderer;
+
+/**
+ *
+ * @author RodgersGB
+ */
+public class Model3DLayer extends AbstractLayer {
+    private Vector<WWModel3D_old> list;
+    private boolean maitainConstantSize = false;
+    private double size = 1;
+    
+    /** Creates a new instance of Model3DLayer */
+    public Model3DLayer() {
+        list = new Vector<WWModel3D_old>();
+    }
+
+    public void addModel(WWModel3D_old model) {
+        list.add(model);
+    }
+    
+    public void removeModel(WWModel3D_old model) {
+        list.remove(model);
+    }
+    
+    protected void doRender(DrawContext dc) {
+        try {
+            beginDraw(dc);
+            for (WWModel3D_old model : list) {
+            	//System.out.println(x + " rendering model " + it.next().getModel());
+				draw(dc, model);
+            }
+        }
+        catch (Exception e) {
+            e.printStackTrace();
+        }
+        finally {
+        	// we must end drawing so that opengl states do not leak through.
+            endDraw(dc);
+        }
+    }
+    
+    // draw this layer
+    protected void draw(DrawContext dc, WWModel3D_old model) {
+        GL gl = dc.getGL();
+        
+        Position pos = model.getPosition();
+        if (model.getFollowTerrain())
+        {
+        	double elevation = dc.getGlobe().getElevation(pos.getLatitude(), pos.getLongitude());
+        	if (model.isRealSize())
+        	{
+        		// Adjust position for 1/2 model height
+        		elevation += model.getHeight() / 2.0;
+        	}
+        	pos = new Position(pos.getLatLon(), elevation);
+        }
+        	
+        Vec4 loc = dc.getGlobe().computePointFromPosition(pos);
+        double localSize = this.computeSize(dc, loc);
+        localSize *= model.computeSizeScale(dc, loc);
+        
+        if (dc.getView().getFrustumInModelCoordinates().contains(loc)) {
+            dc.getView().pushReferenceCenter(dc, loc);
+            
+            gl.glRotated(pos.getLongitude().degrees, 0,1,0);
+            gl.glRotated(-pos.getLatitude().degrees, 1,0,0);
+            gl.glScaled(localSize, localSize, localSize);
+            
+            //System.out.println("lsize = " + localSize + ", radius = " + model.getModel().getBounds().getRadius());
+            
+            gl.glRotated(model.getYaw(), 0,0,1);
+            gl.glRotated(model.getPitch(), 1,0,0);
+            gl.glRotated(model.getRoll(), 0,1,0);
+            
+            // Get an instance of the display list renderer
+            DisplayListRenderer.getInstance().render(gl, model.getModel());
+            dc.getView().popReferenceCenter(dc);
+        }
+    }
+    
+    // puts opengl in the correct state for this layer
+    protected void beginDraw(DrawContext dc) {
+        GL gl = dc.getGL();
+        
+        Vec4 cameraPosition = dc.getView().getEyePoint();
+        
+        gl.glPushAttrib(
+            GL.GL_TEXTURE_BIT |
+            GL.GL_COLOR_BUFFER_BIT |
+            GL.GL_DEPTH_BUFFER_BIT |
+            GL.GL_HINT_BIT |
+            GL.GL_POLYGON_BIT |
+            GL.GL_ENABLE_BIT | 
+            GL.GL_CURRENT_BIT | 
+            GL.GL_LIGHTING_BIT | 
+            GL.GL_TRANSFORM_BIT);
+
+        //float[] lightPosition = {0F, 100000000f, 0f, 0f};
+        float[] lightPosition =
+            {(float) (cameraPosition.x + 1000), (float) (cameraPosition.y + 1000), (float) (cameraPosition.z + 1000), 1.0f};
+        
+        /** Ambient light array */
+        float[] lightAmbient = {0.4f, 0.4f, 0.4f, 0.4f};
+        /** Diffuse light array */
+        float[] lightDiffuse = {1.0f, 1.0f, 1.0f, 1.0f};
+        /** Specular light array */
+        float[] lightSpecular = {1.0f, 1.0f, 1.0f, 1.0f};
+        
+        float[] model_ambient = {0.5f, 0.5f, 0.5f, 1.0f};
+        
+        gl.glLightModelfv(GL.GL_LIGHT_MODEL_AMBIENT, model_ambient, 0);
+        gl.glLightfv(GL.GL_LIGHT1, GL.GL_POSITION, lightPosition, 0);
+        gl.glLightfv(GL.GL_LIGHT1, GL.GL_DIFFUSE, lightDiffuse, 0);
+        gl.glLightfv(GL.GL_LIGHT1, GL.GL_AMBIENT, lightAmbient, 0);
+        gl.glLightfv(GL.GL_LIGHT1, GL.GL_SPECULAR, lightSpecular, 0);
+
+        gl.glDisable(GL.GL_LIGHT0);
+        gl.glEnable(GL.GL_LIGHT1);
+        gl.glEnable(GL.GL_LIGHTING);
+        gl.glEnable(GL.GL_NORMALIZE);
+        
+        gl.glMatrixMode(GL.GL_MODELVIEW);
+        gl.glPushMatrix();
+    }
+    
+    // resets opengl state
+    protected void endDraw(DrawContext dc) {
+        GL gl = dc.getGL();
+        
+        gl.glMatrixMode(javax.media.opengl.GL.GL_MODELVIEW);
+        gl.glPopMatrix();
+        
+        gl.glPopAttrib();
+    }
+    
+    private double computeSize(DrawContext dc, Vec4 loc) {
+        if (this.maitainConstantSize)
+            return size;
+        
+        if (loc == null) {
+            System.err.println("Null location when computing size of model");
+            return 1;
+        }
+        double d = loc.distanceTo3(dc.getView().getEyePoint());
+        double currentSize = 60 * dc.getView().computePixelSizeAtDistance(d);
+        if (currentSize < 2)
+            currentSize = 2;
+        
+        return currentSize;
+    }
+
+    public boolean isConstantSize() {
+        return maitainConstantSize;
+    }
+
+    public void setMaitainConstantSize(boolean maitainConstantSize) {
+        this.maitainConstantSize = maitainConstantSize;
+    }
+
+    public double getSize() {
+        return size;
+    }
+
+    public void setSize(double size) {
+        this.size = size;
+    }
+}

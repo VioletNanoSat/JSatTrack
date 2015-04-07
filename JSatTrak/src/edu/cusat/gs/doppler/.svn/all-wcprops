@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CUSatRepository/!svn/ver/5516/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/doppler
+END
+Doppler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/doppler/Doppler.java
+END
+DopplerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/doppler/DopplerTest.java
+END
+DopplerAdjuster.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CUSatRepository/!svn/ver/5516/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/doppler/DopplerAdjuster.java
+END

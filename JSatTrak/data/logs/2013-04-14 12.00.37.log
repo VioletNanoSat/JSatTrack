@@ -1,0 +1,13 @@
+2013-04-14T12:00:54.034-04:00: Deleted Satellite: ISS (ZARYA)             
+2013-04-14T12:00:59.143-04:00: Stable Library
+2013-04-14T12:00:59.143-04:00: =========================================
+2013-04-14T12:00:59.143-04:00: Native lib Version = RXTX-2.1-7
+2013-04-14T12:00:59.143-04:00: Java lib Version   = RXTX-2.1-7
+2013-04-14T13:28:35.018-04:00: Custom TLE data loaded from file: (Custom,amsat)amsat.txt
+2013-04-14T13:28:35.018-04:00: Custom TLE data loaded from file: (Custom,cusat)cusat.txt
+2013-04-14T13:28:52.472-04:00: Satellite Added to Scenario: RAX-2                   
+2013-04-14T13:29:23.800-04:00: Custom TLE data loaded from file: (Custom,amsat)amsat.txt
+2013-04-14T13:29:23.815-04:00: Custom TLE data loaded from file: (Custom,cusat)cusat.txt
+2013-04-14T13:29:28.581-04:00: Satellite TLE data was successfully updated!
+2013-04-14T13:31:39.268-04:00: Custom TLE data loaded from file: (Custom,amsat)amsat.txt
+2013-04-14T13:31:39.268-04:00: Custom TLE data loaded from file: (Custom,cusat)cusat.txt

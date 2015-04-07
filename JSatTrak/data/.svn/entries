@@ -1,0 +1,55 @@
+10
+
+dir
+6642
+https://cusat.cornell.edu/svn/CUSatRepository/GroundCode/trunk/JSatTrak/data
+https://cusat.cornell.edu/svn/CUSatRepository
+
+
+
+2013-04-20T17:46:18.312142Z
+6618
+aab227
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+eddebd62-96ab-794d-8e24-0337c6b6d264
+
+pixmaps
+dir
+
+tle_user
+dir
+
+groundstations
+dir
+
+models
+dir
+
+logs
+dir
+
+tle
+dir
+
+regions
+dir
+
+scenarios
+dir
+
+packets
+dir
+

@@ -1,0 +1,3 @@
+compile.on.save=true
+javac.debug=false
+user.properties.file=C:\\Users\\Arjun Biddanda\\.netbeans\\7.1\\build.properties

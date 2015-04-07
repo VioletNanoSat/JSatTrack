@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/gov/nasa/worldwind/layers/Mercator
+END
+BasicMercatorTiledImageLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/gov/nasa/worldwind/layers/Mercator/BasicMercatorTiledImageLayer.java
+END
+MercatorTextureTile.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/gov/nasa/worldwind/layers/Mercator/MercatorTextureTile.java
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/gov/nasa/worldwind/layers/Mercator/readme.txt
+END
+MercatorSector.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/gov/nasa/worldwind/layers/Mercator/MercatorSector.java
+END
+MercatorTiledImageLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/gov/nasa/worldwind/layers/Mercator/MercatorTiledImageLayer.java
+END

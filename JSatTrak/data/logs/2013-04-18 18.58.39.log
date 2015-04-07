@@ -1,0 +1,18 @@
+2013-04-18T19:04:34.589-04:00: Custom TLE data loaded from file: (Custom,amsat)amsat.txt
+2013-04-18T19:04:34.605-04:00: Custom TLE data loaded from file: (Custom,cusat)cusat.txt
+2013-04-18T19:04:53.151-04:00: Custom Satellite Added: DeathStar
+2013-04-18T19:05:24.386-04:00: Stable Library
+2013-04-18T19:05:24.401-04:00: =========================================
+2013-04-18T19:05:24.401-04:00: Native lib Version = RXTX-2.1-7
+2013-04-18T19:05:24.401-04:00: Java lib Version   = RXTX-2.1-7
+2013-04-18T19:11:17.526-04:00: Deleted Satellite: DeathStar
+2013-04-18T19:11:25.823-04:00: Custom Satellite Added: X-Wing
+2013-04-18T19:12:56.776-04:00: Custom TLE data loaded from file: (Custom,amsat)amsat.txt
+2013-04-18T19:12:56.792-04:00: Custom TLE data loaded from file: (Custom,cusat)cusat.txt
+2013-04-18T19:14:18.683-04:00: Custom TLE data loaded from file: (Custom,amsat)amsat.txt
+2013-04-18T19:14:18.683-04:00: Custom TLE data loaded from file: (Custom,cusat)cusat.txt
+2013-04-18T19:15:01.058-04:00: Custom TLE data loaded from file: (Custom,amsat)amsat.txt
+2013-04-18T19:15:01.058-04:00: Custom TLE data loaded from file: (Custom,cusat)cusat.txt
+2013-04-18T19:15:34.308-04:00: Satellite Added to Scenario: CUTE-1 (CO-55)          
+2013-04-18T19:15:52.542-04:00: Deleted Satellite: X-Wing
+2013-04-18T19:18:03.714-04:00: Custom Satellite Added: Enterprise

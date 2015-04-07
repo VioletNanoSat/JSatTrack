@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/worldwind/geom
+END
+ECIRadialGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/worldwind/geom/ECIRadialGrid.java
+END
+Cone.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/worldwind/geom/Cone.java
+END
+CoverageJoglColorBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/worldwind/geom/CoverageJoglColorBar.java
+END
+CoverageDataGeom.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/worldwind/geom/CoverageDataGeom.java
+END
+SatelliteObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/worldwind/geom/SatelliteObject.java
+END
+SphereObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/worldwind/geom/SphereObject.java
+END

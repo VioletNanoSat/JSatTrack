@@ -1,0 +1,73 @@
+10
+
+dir
+6642
+https://cusat.cornell.edu/svn/CUSatRepository/GroundCode/trunk/JSatTrak/Required_Libraries
+https://cusat.cornell.edu/svn/CUSatRepository
+
+
+
+2012-02-28T01:01:18.435466Z
+6339
+aab227
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+eddebd62-96ab-794d-8e24-0337c6b6d264
+
+SwingX
+dir
+
+xstream
+dir
+
+substance
+dir
+
+JGoodies-Looks
+dir
+
+Netscape_JavaScript
+dir
+
+JUnit
+dir
+
+JOGL
+dir
+
+Beanshell
+dir
+
+Java_Media_Framework
+dir
+
+Swing Layout Extensions
+dir
+
+rxtx
+dir
+
+Jama
+dir
+
+worldwind
+dir
+
+joda-time-1.6
+dir
+
+JOGLUTILS
+dir
+

@@ -1,0 +1,89 @@
+2013-03-30T14:53:56.506-04:00: Stable Library
+2013-03-30T14:53:56.506-04:00: =========================================
+2013-03-30T14:53:56.522-04:00: Native lib Version = RXTX-2.1-7
+2013-03-30T14:53:56.522-04:00: Java lib Version   = RXTX-2.1-7
+2013-03-30T14:54:03.178-04:00: Sending to TS-2000: DC;
+2013-03-30T14:54:03.178-04:00: Sending to TS-2000: SQ1050;
+2013-03-30T14:54:03.178-04:00: Sending to TS-2000: FR;
+2013-03-30T14:54:03.178-04:00: Sending to TS-2000: AG0050;
+2013-03-30T14:54:03.194-04:00: Sending to TS-2000: FT;
+2013-03-30T14:54:03.194-04:00: Sending to TS-2000: AG;
+2013-03-30T14:54:03.194-04:00: Sending to TS-2000: FA;
+2013-03-30T14:54:03.210-04:00: Sending to TS-2000: RG050;
+2013-03-30T14:54:03.210-04:00: Sending to TS-2000: FB;
+2013-03-30T14:54:03.210-04:00: Sending to TS-2000: RG;
+2013-03-30T14:54:03.210-04:00: Sending to TS-2000: SQ1050;
+2013-03-30T14:54:03.225-04:00: Sending to TS-2000: FC;
+2013-03-30T14:54:03.241-04:00: Sending to TS-2000: MD;
+2013-03-30T14:54:03.241-04:00: Sending to TS-2000: BY;
+2013-03-30T14:54:03.241-04:00: Sending to TS-2000: SM0;
+2013-03-30T14:54:11.819-04:00: Sending to TS-2000: EX05006000;
+2013-03-30T14:54:11.819-04:00: Sending to TS-2000: EX;
+2013-03-30T14:54:11.819-04:00: Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+2013-03-30T14:54:11.835-04:00: 	at edu.cusat.gs.gui.RfGatewayPanel.setSchemeBtnActionPerformed(RfGatewayPanel.java:790)
+2013-03-30T14:54:11.835-04:00: 	at edu.cusat.gs.gui.RfGatewayPanel.access$11(RfGatewayPanel.java:783)
+2013-03-30T14:54:11.835-04:00: 	at edu.cusat.gs.gui.RfGatewayPanel$13.actionPerformed(RfGatewayPanel.java:683)
+2013-03-30T14:54:11.835-04:00: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+2013-03-30T14:54:11.835-04:00: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+2013-03-30T14:54:11.835-04:00: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+2013-03-30T14:54:11.835-04:00: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+2013-03-30T14:54:11.835-04:00: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+2013-03-30T14:54:11.835-04:00: 	at org.jvnet.substance.utils.RolloverButtonListener.mouseReleased(RolloverButtonListener.java:111)
+2013-03-30T14:54:11.850-04:00: 	at java.awt.Component.processMouseEvent(Unknown Source)
+2013-03-30T14:54:11.850-04:00: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+2013-03-30T14:54:11.850-04:00: 	at java.awt.Component.processEvent(Unknown Source)
+2013-03-30T14:54:11.850-04:00: 	at java.awt.Container.processEvent(Unknown Source)
+2013-03-30T14:54:11.850-04:00: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+2013-03-30T14:54:11.850-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2013-03-30T14:54:11.850-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2013-03-30T14:54:11.850-04:00: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+2013-03-30T14:54:11.850-04:00: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+2013-03-30T14:54:11.850-04:00: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+2013-03-30T14:54:11.850-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2013-03-30T14:54:11.850-04:00: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+2013-03-30T14:54:11.850-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2013-03-30T14:54:11.850-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2013-03-30T14:54:11.866-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2013-03-30T14:54:11.866-04:00: 	at java.awt.EventQueue$3.run(Unknown Source)
+2013-03-30T14:54:11.866-04:00: 	at java.awt.EventQueue$3.run(Unknown Source)
+2013-03-30T14:54:11.866-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2013-03-30T14:54:11.866-04:00: 	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+2013-03-30T14:54:11.866-04:00: 	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+2013-03-30T14:54:11.866-04:00: 	at java.awt.EventQueue$4.run(Unknown Source)
+2013-03-30T14:54:11.866-04:00: 	at java.awt.EventQueue$4.run(Unknown Source)
+2013-03-30T14:54:11.866-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2013-03-30T14:54:11.866-04:00: 	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+2013-03-30T14:54:11.866-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2013-03-30T14:54:11.866-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2013-03-30T14:54:11.866-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2013-03-30T14:54:11.866-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2013-03-30T14:54:11.881-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2013-03-30T14:54:11.881-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2013-03-30T14:54:11.881-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)
+2013-03-30T14:54:13.178-04:00: Sending to TS-2000: DC;
+2013-03-30T14:54:13.178-04:00: Sending to TS-2000: FR;
+2013-03-30T14:54:13.178-04:00: Sending to TS-2000: FT;
+2013-03-30T14:54:13.194-04:00: Sending to TS-2000: FA;
+2013-03-30T14:54:13.194-04:00: Sending to TS-2000: FB;
+2013-03-30T14:54:13.194-04:00: Sending to TS-2000: FC;
+2013-03-30T14:54:13.194-04:00: Sending to TS-2000: MD;
+2013-03-30T14:54:13.194-04:00: Sending to TS-2000: BY;
+2013-03-30T14:54:13.194-04:00: Sending to TS-2000: SM0;
+2013-03-30T14:54:23.178-04:00: Sending to TS-2000: DC;
+2013-03-30T14:54:23.178-04:00: Sending to TS-2000: FR;
+2013-03-30T14:54:23.178-04:00: Sending to TS-2000: FT;
+2013-03-30T14:54:23.178-04:00: Sending to TS-2000: FA;
+2013-03-30T14:54:23.178-04:00: Sending to TS-2000: FB;
+2013-03-30T14:54:23.178-04:00: Sending to TS-2000: FC;
+2013-03-30T14:54:23.194-04:00: Sending to TS-2000: MD;
+2013-03-30T14:54:23.194-04:00: Sending to TS-2000: BY;
+2013-03-30T14:54:23.194-04:00: Sending to TS-2000: SM0;
+2013-03-30T14:54:33.178-04:00: Sending to TS-2000: DC;
+2013-03-30T14:54:33.178-04:00: Sending to TS-2000: FR;
+2013-03-30T14:54:33.194-04:00: Sending to TS-2000: FT;
+2013-03-30T14:54:33.194-04:00: Sending to TS-2000: FA;
+2013-03-30T14:54:33.194-04:00: Sending to TS-2000: FB;
+2013-03-30T14:54:33.194-04:00: Sending to TS-2000: FC;
+2013-03-30T14:54:33.194-04:00: Sending to TS-2000: MD;
+2013-03-30T14:54:33.210-04:00: Sending to TS-2000: BY;
+2013-03-30T14:54:33.210-04:00: Sending to TS-2000: SM0;

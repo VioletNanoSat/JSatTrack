@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CUSatRepository/!svn/ver/6604/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rfgateway
+END
+SimServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CUSatRepository/!svn/ver/6313/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rfgateway/SimServer.java
+END
+TncProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CUSatRepository/!svn/ver/6596/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rfgateway/TncProvider.java
+END
+TncSerialProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CUSatRepository/!svn/ver/6604/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rfgateway/TncSerialProvider.java
+END
+CtrlTcpProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CUSatRepository/!svn/ver/4995/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rfgateway/CtrlTcpProvider.java
+END
+CtrlTcpProviderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/CUSatRepository/!svn/ver/5516/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rfgateway/CtrlTcpProviderTest.java
+END
+GatewayMgr.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CUSatRepository/!svn/ver/6604/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rfgateway/GatewayMgr.java
+END
+GatewayMgrTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CUSatRepository/!svn/ver/6091/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rfgateway/GatewayMgrTest.java
+END
+OperatorCallsignSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CUSatRepository/!svn/ver/6413/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rfgateway/OperatorCallsignSender.java
+END
+SatTcpProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CUSatRepository/!svn/ver/6594/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rfgateway/SatTcpProvider.java
+END
+Callsign.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CUSatRepository/!svn/ver/6081/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rfgateway/Callsign.java
+END
+CallsignTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CUSatRepository/!svn/ver/6081/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rfgateway/CallsignTest.java
+END
+GatewayMgrListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CUSatRepository/!svn/ver/4839/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rfgateway/GatewayMgrListener.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/CUSatRepository/!svn/ver/6223/GroundCode/trunk/JSatTrak/src/jsattrak/customsat
+END
+LoopNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/jsattrak/customsat/LoopNode.java
+END
+SolverNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/jsattrak/customsat/SolverNode.java
+END
+PropogatorNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/jsattrak/customsat/PropogatorNode.java
+END
+GoalParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/jsattrak/customsat/GoalParameter.java
+END
+InputVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/jsattrak/customsat/InputVariable.java
+END
+ManeuverNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/jsattrak/customsat/ManeuverNode.java
+END
+InitialConditionsNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/jsattrak/customsat/InitialConditionsNode.java
+END
+EphemerisFromFileNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/jsattrak/customsat/EphemerisFromFileNode.java
+END
+StopNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/jsattrak/customsat/StopNode.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CUSatRepository/!svn/ver/4730/GroundCode/trunk/JSatTrak/src/name/gano/astro
+END
+AstroConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/AstroConst.java
+END
+JulianDay.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/JulianDay.java
+END
+Kepler.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/Kepler.java
+END
+GeoFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/GeoFunctions.java
+END
+AER.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/AER.java
+END
+Atmosphere.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/Atmosphere.java
+END
+Sidereal.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/Sidereal.java
+END
+GravityField.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/GravityField.java
+END
+MathUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/MathUtils.java
+END
+MathUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/MathUtilsTest.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/math/nonlinsolvers
+END
+NonLinearEquationSystemProblem.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/math/nonlinsolvers/NonLinearEquationSystemProblem.java
+END
+TestDC.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/math/nonlinsolvers/TestDC.java
+END
+NonLinearEquationSystemSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/math/nonlinsolvers/NonLinearEquationSystemSolver.java
+END
+ModifiedBroydenSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/math/nonlinsolvers/ModifiedBroydenSolver.java
+END
+ModifiedNewtonFiniteDiffSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/math/nonlinsolvers/ModifiedNewtonFiniteDiffSolver.java
+END

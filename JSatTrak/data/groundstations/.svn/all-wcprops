@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/CUSatRepository/!svn/ver/4729/GroundCode/trunk/JSatTrak/data/groundstations
+END
+groundstations_db.csv
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/data/groundstations/groundstations_db.csv
+END
+groundstations_custom.csv
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CUSatRepository/!svn/ver/4729/GroundCode/trunk/JSatTrak/data/groundstations/groundstations_custom.csv
+END

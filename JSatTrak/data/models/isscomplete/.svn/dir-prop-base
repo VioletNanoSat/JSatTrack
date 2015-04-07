@@ -1,0 +1,9 @@
+K 13
+bugtraq:label
+V 7
+BugzID:
+K 15
+bugtraq:message
+V 15
+BugzID: %BUGID%
+END

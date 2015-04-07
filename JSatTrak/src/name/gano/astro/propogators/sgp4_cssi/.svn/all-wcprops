@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/propogators/sgp4_cssi
+END
+SGP4SatData.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/propogators/sgp4_cssi/SGP4SatData.java
+END
+SGP4verification.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/propogators/sgp4_cssi/SGP4verification.java
+END
+SGP4test.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/propogators/sgp4_cssi/SGP4test.java
+END
+SGP4unit.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/propogators/sgp4_cssi/SGP4unit.java
+END
+SGP4utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/propogators/sgp4_cssi/SGP4utils.java
+END

@@ -1,0 +1,1188 @@
+2012-10-13T15:12:22.912-04:00: Exception in thread "AWT-EventQueue-0" java.lang.Error: Unresolved compilation problems: 
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+
+2012-10-13T15:12:22.927-04:00: 	at edu.cusat.gs.gui.GroundSystemsPanel.<init>(GroundSystemsPanel.java:123)
+2012-10-13T15:12:22.927-04:00: 	at jsattrak.gui.JSatTrak.showTritonInternalFrame(JSatTrak.java:2699)
+2012-10-13T15:12:22.927-04:00: 	at jsattrak.gui.JSatTrak.jButtonTritonActionPerformed(JSatTrak.java:1557)
+2012-10-13T15:12:22.927-04:00: 	at jsattrak.gui.JSatTrak.access$8(JSatTrak.java:1556)
+2012-10-13T15:12:22.927-04:00: 	at jsattrak.gui.JSatTrak$8.actionPerformed(JSatTrak.java:877)
+2012-10-13T15:12:22.927-04:00: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:22.927-04:00: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+2012-10-13T15:12:22.927-04:00: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:22.943-04:00: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+2012-10-13T15:12:22.943-04:00: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+2012-10-13T15:12:22.943-04:00: 	at org.jvnet.substance.utils.RolloverButtonListener.mouseReleased(RolloverButtonListener.java:111)
+2012-10-13T15:12:22.943-04:00: 	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+2012-10-13T15:12:22.943-04:00: 	at java.awt.Component.processMouseEvent(Unknown Source)
+2012-10-13T15:12:22.943-04:00: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+2012-10-13T15:12:22.943-04:00: 	at java.awt.Component.processEvent(Unknown Source)
+2012-10-13T15:12:22.943-04:00: 	at java.awt.Container.processEvent(Unknown Source)
+2012-10-13T15:12:22.943-04:00: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:22.943-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:22.943-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:22.943-04:00: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+2012-10-13T15:12:22.958-04:00: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+2012-10-13T15:12:22.958-04:00: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+2012-10-13T15:12:22.958-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:22.958-04:00: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:22.958-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:22.958-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:22.958-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2012-10-13T15:12:22.958-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:22.958-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:22.958-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:22.958-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:22.958-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:22.958-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:22.958-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:22.958-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:22.958-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:22.958-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2012-10-13T15:12:22.958-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2012-10-13T15:12:22.958-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2012-10-13T15:12:22.974-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2012-10-13T15:12:22.974-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:22.974-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:22.974-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)
+2012-10-13T15:12:27.083-04:00: Exception in thread "AWT-EventQueue-0" java.lang.Error: Unresolved compilation problems: 
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+
+2012-10-13T15:12:27.083-04:00: 	at edu.cusat.gs.gui.GroundSystemsPanel.<init>(GroundSystemsPanel.java:123)
+2012-10-13T15:12:27.083-04:00: 	at jsattrak.gui.JSatTrak.showTritonInternalFrame(JSatTrak.java:2699)
+2012-10-13T15:12:27.083-04:00: 	at jsattrak.gui.JSatTrak.jButtonTritonActionPerformed(JSatTrak.java:1557)
+2012-10-13T15:12:27.083-04:00: 	at jsattrak.gui.JSatTrak.access$8(JSatTrak.java:1556)
+2012-10-13T15:12:27.099-04:00: 	at jsattrak.gui.JSatTrak$8.actionPerformed(JSatTrak.java:877)
+2012-10-13T15:12:27.099-04:00: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:27.099-04:00: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+2012-10-13T15:12:27.099-04:00: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:27.099-04:00: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+2012-10-13T15:12:27.099-04:00: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+2012-10-13T15:12:27.099-04:00: 	at org.jvnet.substance.utils.RolloverButtonListener.mouseReleased(RolloverButtonListener.java:111)
+2012-10-13T15:12:27.099-04:00: 	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+2012-10-13T15:12:27.099-04:00: 	at java.awt.Component.processMouseEvent(Unknown Source)
+2012-10-13T15:12:27.099-04:00: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+2012-10-13T15:12:27.099-04:00: 	at java.awt.Component.processEvent(Unknown Source)
+2012-10-13T15:12:27.099-04:00: 	at java.awt.Container.processEvent(Unknown Source)
+2012-10-13T15:12:27.099-04:00: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:27.099-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:27.099-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:27.099-04:00: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+2012-10-13T15:12:27.099-04:00: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+2012-10-13T15:12:27.099-04:00: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+2012-10-13T15:12:27.099-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:27.099-04:00: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:27.099-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:27.099-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:27.115-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2012-10-13T15:12:27.115-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:27.115-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:27.115-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:27.115-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:27.115-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:27.115-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:27.115-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:27.115-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:27.115-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:27.115-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2012-10-13T15:12:27.115-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2012-10-13T15:12:27.115-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2012-10-13T15:12:27.115-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2012-10-13T15:12:27.115-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:27.115-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:27.115-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)
+2012-10-13T15:12:27.677-04:00: Exception in thread "AWT-EventQueue-0" java.lang.Error: Unresolved compilation problems: 
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+
+2012-10-13T15:12:27.677-04:00: 	at edu.cusat.gs.gui.GroundSystemsPanel.<init>(GroundSystemsPanel.java:123)
+2012-10-13T15:12:27.677-04:00: 	at jsattrak.gui.JSatTrak.showTritonInternalFrame(JSatTrak.java:2699)
+2012-10-13T15:12:27.677-04:00: 	at jsattrak.gui.JSatTrak.jButtonTritonActionPerformed(JSatTrak.java:1557)
+2012-10-13T15:12:27.677-04:00: 	at jsattrak.gui.JSatTrak.access$8(JSatTrak.java:1556)
+2012-10-13T15:12:27.693-04:00: 	at jsattrak.gui.JSatTrak$8.actionPerformed(JSatTrak.java:877)
+2012-10-13T15:12:27.693-04:00: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:27.693-04:00: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+2012-10-13T15:12:27.693-04:00: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:27.693-04:00: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+2012-10-13T15:12:27.693-04:00: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+2012-10-13T15:12:27.693-04:00: 	at org.jvnet.substance.utils.RolloverButtonListener.mouseReleased(RolloverButtonListener.java:111)
+2012-10-13T15:12:27.693-04:00: 	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+2012-10-13T15:12:27.693-04:00: 	at java.awt.Component.processMouseEvent(Unknown Source)
+2012-10-13T15:12:27.693-04:00: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+2012-10-13T15:12:27.693-04:00: 	at java.awt.Component.processEvent(Unknown Source)
+2012-10-13T15:12:27.693-04:00: 	at java.awt.Container.processEvent(Unknown Source)
+2012-10-13T15:12:27.693-04:00: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:27.693-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:27.693-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:27.693-04:00: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+2012-10-13T15:12:27.693-04:00: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+2012-10-13T15:12:27.708-04:00: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+2012-10-13T15:12:27.708-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:27.708-04:00: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:27.708-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:27.708-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:27.708-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2012-10-13T15:12:27.708-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:27.708-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:27.708-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:27.708-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:27.708-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:27.708-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:27.708-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:27.708-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:27.708-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:27.708-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2012-10-13T15:12:27.708-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2012-10-13T15:12:27.724-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2012-10-13T15:12:27.724-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2012-10-13T15:12:27.724-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:27.724-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:27.724-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)
+2012-10-13T15:12:28.568-04:00: Exception in thread "AWT-EventQueue-0" java.lang.Error: Unresolved compilation problems: 
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+
+2012-10-13T15:12:28.568-04:00: 	at edu.cusat.gs.gui.GroundSystemsPanel.<init>(GroundSystemsPanel.java:123)
+2012-10-13T15:12:28.568-04:00: 	at jsattrak.gui.JSatTrak.showTritonInternalFrame(JSatTrak.java:2699)
+2012-10-13T15:12:28.568-04:00: 	at jsattrak.gui.JSatTrak.jButtonTritonActionPerformed(JSatTrak.java:1557)
+2012-10-13T15:12:28.568-04:00: 	at jsattrak.gui.JSatTrak.access$8(JSatTrak.java:1556)
+2012-10-13T15:12:28.568-04:00: 	at jsattrak.gui.JSatTrak$8.actionPerformed(JSatTrak.java:877)
+2012-10-13T15:12:28.568-04:00: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:28.568-04:00: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+2012-10-13T15:12:28.568-04:00: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:28.568-04:00: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+2012-10-13T15:12:28.568-04:00: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+2012-10-13T15:12:28.568-04:00: 	at org.jvnet.substance.utils.RolloverButtonListener.mouseReleased(RolloverButtonListener.java:111)
+2012-10-13T15:12:28.568-04:00: 	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+2012-10-13T15:12:28.568-04:00: 	at java.awt.Component.processMouseEvent(Unknown Source)
+2012-10-13T15:12:28.568-04:00: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+2012-10-13T15:12:28.568-04:00: 	at java.awt.Component.processEvent(Unknown Source)
+2012-10-13T15:12:28.568-04:00: 	at java.awt.Container.processEvent(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:28.583-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:28.583-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:28.583-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:28.599-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)
+2012-10-13T15:12:29.943-04:00: Exception in thread "AWT-EventQueue-0" java.lang.Error: Unresolved compilation problems: 
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+
+2012-10-13T15:12:29.943-04:00: 	at edu.cusat.gs.gui.GroundSystemsPanel.<init>(GroundSystemsPanel.java:123)
+2012-10-13T15:12:29.943-04:00: 	at jsattrak.gui.JSatTrak.showTritonInternalFrame(JSatTrak.java:2699)
+2012-10-13T15:12:29.958-04:00: 	at jsattrak.gui.JSatTrak.jButtonTritonActionPerformed(JSatTrak.java:1557)
+2012-10-13T15:12:29.958-04:00: 	at jsattrak.gui.JSatTrak.access$8(JSatTrak.java:1556)
+2012-10-13T15:12:29.958-04:00: 	at jsattrak.gui.JSatTrak$8.actionPerformed(JSatTrak.java:877)
+2012-10-13T15:12:29.958-04:00: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:29.958-04:00: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+2012-10-13T15:12:29.958-04:00: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:29.958-04:00: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+2012-10-13T15:12:29.958-04:00: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+2012-10-13T15:12:29.958-04:00: 	at org.jvnet.substance.utils.RolloverButtonListener.mouseReleased(RolloverButtonListener.java:111)
+2012-10-13T15:12:29.958-04:00: 	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+2012-10-13T15:12:29.958-04:00: 	at java.awt.Component.processMouseEvent(Unknown Source)
+2012-10-13T15:12:29.958-04:00: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+2012-10-13T15:12:29.958-04:00: 	at java.awt.Component.processEvent(Unknown Source)
+2012-10-13T15:12:29.958-04:00: 	at java.awt.Container.processEvent(Unknown Source)
+2012-10-13T15:12:29.958-04:00: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:29.958-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:29.958-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:29.958-04:00: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+2012-10-13T15:12:29.958-04:00: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+2012-10-13T15:12:29.958-04:00: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+2012-10-13T15:12:29.958-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:29.958-04:00: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:29.958-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:29.974-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:29.974-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2012-10-13T15:12:29.974-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:29.974-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:29.974-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:29.974-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:29.974-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:29.974-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:29.974-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:29.974-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:29.974-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:29.974-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2012-10-13T15:12:29.974-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2012-10-13T15:12:29.974-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2012-10-13T15:12:29.974-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2012-10-13T15:12:29.974-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:29.974-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:29.974-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)
+2012-10-13T15:12:30.224-04:00: Exception in thread "AWT-EventQueue-0" java.lang.Error: Unresolved compilation problems: 
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+
+2012-10-13T15:12:30.224-04:00: 	at edu.cusat.gs.gui.GroundSystemsPanel.<init>(GroundSystemsPanel.java:123)
+2012-10-13T15:12:30.224-04:00: 	at jsattrak.gui.JSatTrak.showTritonInternalFrame(JSatTrak.java:2699)
+2012-10-13T15:12:30.224-04:00: 	at jsattrak.gui.JSatTrak.jButtonTritonActionPerformed(JSatTrak.java:1557)
+2012-10-13T15:12:30.224-04:00: 	at jsattrak.gui.JSatTrak.access$8(JSatTrak.java:1556)
+2012-10-13T15:12:30.224-04:00: 	at jsattrak.gui.JSatTrak$8.actionPerformed(JSatTrak.java:877)
+2012-10-13T15:12:30.224-04:00: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:30.224-04:00: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+2012-10-13T15:12:30.224-04:00: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:30.224-04:00: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+2012-10-13T15:12:30.224-04:00: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+2012-10-13T15:12:30.224-04:00: 	at org.jvnet.substance.utils.RolloverButtonListener.mouseReleased(RolloverButtonListener.java:111)
+2012-10-13T15:12:30.224-04:00: 	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+2012-10-13T15:12:30.224-04:00: 	at java.awt.Component.processMouseEvent(Unknown Source)
+2012-10-13T15:12:30.224-04:00: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+2012-10-13T15:12:30.224-04:00: 	at java.awt.Component.processEvent(Unknown Source)
+2012-10-13T15:12:30.224-04:00: 	at java.awt.Container.processEvent(Unknown Source)
+2012-10-13T15:12:30.224-04:00: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:30.224-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:30.240-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:30.240-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:30.240-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)
+2012-10-13T15:12:30.458-04:00: Exception in thread "AWT-EventQueue-0" java.lang.Error: Unresolved compilation problems: 
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+
+2012-10-13T15:12:30.458-04:00: 	at edu.cusat.gs.gui.GroundSystemsPanel.<init>(GroundSystemsPanel.java:123)
+2012-10-13T15:12:30.458-04:00: 	at jsattrak.gui.JSatTrak.showTritonInternalFrame(JSatTrak.java:2699)
+2012-10-13T15:12:30.458-04:00: 	at jsattrak.gui.JSatTrak.jButtonTritonActionPerformed(JSatTrak.java:1557)
+2012-10-13T15:12:30.458-04:00: 	at jsattrak.gui.JSatTrak.access$8(JSatTrak.java:1556)
+2012-10-13T15:12:30.458-04:00: 	at jsattrak.gui.JSatTrak$8.actionPerformed(JSatTrak.java:877)
+2012-10-13T15:12:30.458-04:00: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:30.458-04:00: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+2012-10-13T15:12:30.458-04:00: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:30.458-04:00: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+2012-10-13T15:12:30.458-04:00: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+2012-10-13T15:12:30.458-04:00: 	at org.jvnet.substance.utils.RolloverButtonListener.mouseReleased(RolloverButtonListener.java:111)
+2012-10-13T15:12:30.458-04:00: 	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+2012-10-13T15:12:30.458-04:00: 	at java.awt.Component.processMouseEvent(Unknown Source)
+2012-10-13T15:12:30.458-04:00: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+2012-10-13T15:12:30.458-04:00: 	at java.awt.Component.processEvent(Unknown Source)
+2012-10-13T15:12:30.458-04:00: 	at java.awt.Container.processEvent(Unknown Source)
+2012-10-13T15:12:30.458-04:00: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:30.458-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:30.458-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:30.458-04:00: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+2012-10-13T15:12:30.458-04:00: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+2012-10-13T15:12:30.458-04:00: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+2012-10-13T15:12:30.474-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:30.474-04:00: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:30.474-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:30.474-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:30.474-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2012-10-13T15:12:30.474-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:30.474-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:30.474-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:30.474-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:30.474-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:30.474-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:30.474-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:30.474-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:30.474-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:30.474-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2012-10-13T15:12:30.474-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2012-10-13T15:12:30.474-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2012-10-13T15:12:30.474-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2012-10-13T15:12:30.474-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:30.474-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:30.474-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)
+2012-10-13T15:12:30.693-04:00: Exception in thread "AWT-EventQueue-0" java.lang.Error: Unresolved compilation problems: 
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+
+2012-10-13T15:12:30.693-04:00: 	at edu.cusat.gs.gui.GroundSystemsPanel.<init>(GroundSystemsPanel.java:123)
+2012-10-13T15:12:30.693-04:00: 	at jsattrak.gui.JSatTrak.showTritonInternalFrame(JSatTrak.java:2699)
+2012-10-13T15:12:30.693-04:00: 	at jsattrak.gui.JSatTrak.jButtonTritonActionPerformed(JSatTrak.java:1557)
+2012-10-13T15:12:30.693-04:00: 	at jsattrak.gui.JSatTrak.access$8(JSatTrak.java:1556)
+2012-10-13T15:12:30.693-04:00: 	at jsattrak.gui.JSatTrak$8.actionPerformed(JSatTrak.java:877)
+2012-10-13T15:12:30.693-04:00: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at org.jvnet.substance.utils.RolloverButtonListener.mouseReleased(RolloverButtonListener.java:111)
+2012-10-13T15:12:30.708-04:00: 	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at java.awt.Component.processMouseEvent(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at java.awt.Component.processEvent(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at java.awt.Container.processEvent(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:30.708-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:30.708-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:30.724-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:30.724-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2012-10-13T15:12:30.724-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2012-10-13T15:12:30.724-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2012-10-13T15:12:30.724-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2012-10-13T15:12:30.724-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:30.724-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:30.724-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)
+2012-10-13T15:12:30.912-04:00: Exception in thread "AWT-EventQueue-0" java.lang.Error: Unresolved compilation problems: 
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+
+2012-10-13T15:12:30.912-04:00: 	at edu.cusat.gs.gui.GroundSystemsPanel.<init>(GroundSystemsPanel.java:123)
+2012-10-13T15:12:30.912-04:00: 	at jsattrak.gui.JSatTrak.showTritonInternalFrame(JSatTrak.java:2699)
+2012-10-13T15:12:30.912-04:00: 	at jsattrak.gui.JSatTrak.jButtonTritonActionPerformed(JSatTrak.java:1557)
+2012-10-13T15:12:30.912-04:00: 	at jsattrak.gui.JSatTrak.access$8(JSatTrak.java:1556)
+2012-10-13T15:12:30.912-04:00: 	at jsattrak.gui.JSatTrak$8.actionPerformed(JSatTrak.java:877)
+2012-10-13T15:12:30.912-04:00: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:30.912-04:00: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+2012-10-13T15:12:30.912-04:00: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:30.912-04:00: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+2012-10-13T15:12:30.912-04:00: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+2012-10-13T15:12:30.912-04:00: 	at org.jvnet.substance.utils.RolloverButtonListener.mouseReleased(RolloverButtonListener.java:111)
+2012-10-13T15:12:30.912-04:00: 	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+2012-10-13T15:12:30.912-04:00: 	at java.awt.Component.processMouseEvent(Unknown Source)
+2012-10-13T15:12:30.912-04:00: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.Component.processEvent(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.Container.processEvent(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:30.927-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:30.927-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:30.927-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)
+2012-10-13T15:12:31.177-04:00: Exception in thread "AWT-EventQueue-0" java.lang.Error: Unresolved compilation problems: 
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+
+2012-10-13T15:12:31.177-04:00: 	at edu.cusat.gs.gui.GroundSystemsPanel.<init>(GroundSystemsPanel.java:123)
+2012-10-13T15:12:31.177-04:00: 	at jsattrak.gui.JSatTrak.showTritonInternalFrame(JSatTrak.java:2699)
+2012-10-13T15:12:31.177-04:00: 	at jsattrak.gui.JSatTrak.jButtonTritonActionPerformed(JSatTrak.java:1557)
+2012-10-13T15:12:31.177-04:00: 	at jsattrak.gui.JSatTrak.access$8(JSatTrak.java:1556)
+2012-10-13T15:12:31.177-04:00: 	at jsattrak.gui.JSatTrak$8.actionPerformed(JSatTrak.java:877)
+2012-10-13T15:12:31.177-04:00: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:31.177-04:00: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+2012-10-13T15:12:31.177-04:00: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:31.177-04:00: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+2012-10-13T15:12:31.177-04:00: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+2012-10-13T15:12:31.177-04:00: 	at org.jvnet.substance.utils.RolloverButtonListener.mouseReleased(RolloverButtonListener.java:111)
+2012-10-13T15:12:31.177-04:00: 	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+2012-10-13T15:12:31.177-04:00: 	at java.awt.Component.processMouseEvent(Unknown Source)
+2012-10-13T15:12:31.177-04:00: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+2012-10-13T15:12:31.177-04:00: 	at java.awt.Component.processEvent(Unknown Source)
+2012-10-13T15:12:31.177-04:00: 	at java.awt.Container.processEvent(Unknown Source)
+2012-10-13T15:12:31.177-04:00: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:31.177-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:31.177-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:31.177-04:00: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+2012-10-13T15:12:31.177-04:00: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+2012-10-13T15:12:31.177-04:00: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+2012-10-13T15:12:31.177-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:31.177-04:00: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:31.177-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:31.177-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:31.193-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2012-10-13T15:12:31.193-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:31.193-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:31.193-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:31.193-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:31.193-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:31.193-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:31.193-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:31.193-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:31.193-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:31.193-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2012-10-13T15:12:31.193-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2012-10-13T15:12:31.193-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2012-10-13T15:12:31.193-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2012-10-13T15:12:31.193-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:31.193-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:31.193-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)
+2012-10-13T15:12:31.458-04:00: Exception in thread "AWT-EventQueue-0" java.lang.Error: Unresolved compilation problems: 
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+
+2012-10-13T15:12:31.458-04:00: 	at edu.cusat.gs.gui.GroundSystemsPanel.<init>(GroundSystemsPanel.java:123)
+2012-10-13T15:12:31.458-04:00: 	at jsattrak.gui.JSatTrak.showTritonInternalFrame(JSatTrak.java:2699)
+2012-10-13T15:12:31.458-04:00: 	at jsattrak.gui.JSatTrak.jButtonTritonActionPerformed(JSatTrak.java:1557)
+2012-10-13T15:12:31.474-04:00: 	at jsattrak.gui.JSatTrak.access$8(JSatTrak.java:1556)
+2012-10-13T15:12:31.474-04:00: 	at jsattrak.gui.JSatTrak$8.actionPerformed(JSatTrak.java:877)
+2012-10-13T15:12:31.474-04:00: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at org.jvnet.substance.utils.RolloverButtonListener.mouseReleased(RolloverButtonListener.java:111)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.Component.processMouseEvent(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.Component.processEvent(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.Container.processEvent(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:31.474-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:31.474-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:31.474-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:31.490-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)
+2012-10-13T15:12:43.677-04:00: Exception in thread "AWT-EventQueue-0" java.lang.Error: Unresolved compilation problems: 
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+
+2012-10-13T15:12:43.677-04:00: 	at edu.cusat.gs.gui.GroundSystemsPanel.<init>(GroundSystemsPanel.java:123)
+2012-10-13T15:12:43.677-04:00: 	at jsattrak.gui.JSatTrak.showTritonInternalFrame(JSatTrak.java:2699)
+2012-10-13T15:12:43.677-04:00: 	at jsattrak.gui.JSatTrak.jButtonTritonActionPerformed(JSatTrak.java:1557)
+2012-10-13T15:12:43.677-04:00: 	at jsattrak.gui.JSatTrak.access$8(JSatTrak.java:1556)
+2012-10-13T15:12:43.677-04:00: 	at jsattrak.gui.JSatTrak$8.actionPerformed(JSatTrak.java:877)
+2012-10-13T15:12:43.677-04:00: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:43.677-04:00: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+2012-10-13T15:12:43.677-04:00: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:43.677-04:00: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+2012-10-13T15:12:43.677-04:00: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+2012-10-13T15:12:43.677-04:00: 	at org.jvnet.substance.utils.RolloverButtonListener.mouseReleased(RolloverButtonListener.java:111)
+2012-10-13T15:12:43.677-04:00: 	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+2012-10-13T15:12:43.677-04:00: 	at java.awt.Component.processMouseEvent(Unknown Source)
+2012-10-13T15:12:43.677-04:00: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+2012-10-13T15:12:43.677-04:00: 	at java.awt.Component.processEvent(Unknown Source)
+2012-10-13T15:12:43.677-04:00: 	at java.awt.Container.processEvent(Unknown Source)
+2012-10-13T15:12:43.677-04:00: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:43.677-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:43.677-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:43.677-04:00: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+2012-10-13T15:12:43.677-04:00: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+2012-10-13T15:12:43.677-04:00: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+2012-10-13T15:12:43.677-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:43.677-04:00: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:43.677-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:43.693-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:43.693-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2012-10-13T15:12:43.693-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:43.693-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:43.693-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:43.693-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:43.693-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:43.693-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:43.693-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:43.693-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:43.693-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:43.693-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2012-10-13T15:12:43.693-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2012-10-13T15:12:43.693-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2012-10-13T15:12:43.693-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2012-10-13T15:12:43.693-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:43.693-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:43.693-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)
+2012-10-13T15:12:43.724-04:00: Exception in thread "AWT-EventQueue-0" java.lang.Error: Unresolved compilation problems: 
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+
+2012-10-13T15:12:43.724-04:00: 	at edu.cusat.gs.gui.GroundSystemsPanel.<init>(GroundSystemsPanel.java:123)
+2012-10-13T15:12:43.724-04:00: 	at jsattrak.gui.JSatTrak.showTritonInternalFrame(JSatTrak.java:2699)
+2012-10-13T15:12:43.740-04:00: 	at jsattrak.gui.JSatTrak.jButtonTritonActionPerformed(JSatTrak.java:1557)
+2012-10-13T15:12:43.740-04:00: 	at jsattrak.gui.JSatTrak.access$8(JSatTrak.java:1556)
+2012-10-13T15:12:43.740-04:00: 	at jsattrak.gui.JSatTrak$8.actionPerformed(JSatTrak.java:877)
+2012-10-13T15:12:43.740-04:00: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at org.jvnet.substance.utils.RolloverButtonListener.mouseReleased(RolloverButtonListener.java:111)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.Component.processMouseEvent(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.Component.processEvent(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.Container.processEvent(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:43.740-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:43.740-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:43.740-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:43.755-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)
+2012-10-13T15:12:44.130-04:00: Exception in thread "AWT-EventQueue-0" java.lang.Error: Unresolved compilation problems: 
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+
+2012-10-13T15:12:44.130-04:00: 	at edu.cusat.gs.gui.GroundSystemsPanel.<init>(GroundSystemsPanel.java:123)
+2012-10-13T15:12:44.130-04:00: 	at jsattrak.gui.JSatTrak.showTritonInternalFrame(JSatTrak.java:2699)
+2012-10-13T15:12:44.130-04:00: 	at jsattrak.gui.JSatTrak.jButtonTritonActionPerformed(JSatTrak.java:1557)
+2012-10-13T15:12:44.130-04:00: 	at jsattrak.gui.JSatTrak.access$8(JSatTrak.java:1556)
+2012-10-13T15:12:44.130-04:00: 	at jsattrak.gui.JSatTrak$8.actionPerformed(JSatTrak.java:877)
+2012-10-13T15:12:44.130-04:00: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at org.jvnet.substance.utils.RolloverButtonListener.mouseReleased(RolloverButtonListener.java:111)
+2012-10-13T15:12:44.130-04:00: 	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at java.awt.Component.processMouseEvent(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at java.awt.Component.processEvent(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at java.awt.Container.processEvent(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:44.130-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:44.146-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:44.146-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:44.146-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:44.146-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:44.146-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:44.146-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:44.146-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2012-10-13T15:12:44.146-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2012-10-13T15:12:44.146-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2012-10-13T15:12:44.146-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2012-10-13T15:12:44.146-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:44.146-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:44.146-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)
+2012-10-13T15:12:44.615-04:00: Exception in thread "AWT-EventQueue-0" java.lang.Error: Unresolved compilation problems: 
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+
+2012-10-13T15:12:44.615-04:00: 	at edu.cusat.gs.gui.GroundSystemsPanel.<init>(GroundSystemsPanel.java:123)
+2012-10-13T15:12:44.615-04:00: 	at jsattrak.gui.JSatTrak.showTritonInternalFrame(JSatTrak.java:2699)
+2012-10-13T15:12:44.615-04:00: 	at jsattrak.gui.JSatTrak.jButtonTritonActionPerformed(JSatTrak.java:1557)
+2012-10-13T15:12:44.615-04:00: 	at jsattrak.gui.JSatTrak.access$8(JSatTrak.java:1556)
+2012-10-13T15:12:44.615-04:00: 	at jsattrak.gui.JSatTrak$8.actionPerformed(JSatTrak.java:877)
+2012-10-13T15:12:44.615-04:00: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at org.jvnet.substance.utils.RolloverButtonListener.mouseReleased(RolloverButtonListener.java:111)
+2012-10-13T15:12:44.630-04:00: 	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at java.awt.Component.processMouseEvent(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at java.awt.Component.processEvent(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at java.awt.Container.processEvent(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:44.630-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:44.630-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:44.646-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:44.646-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:44.646-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:44.646-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:44.646-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2012-10-13T15:12:44.646-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2012-10-13T15:12:44.646-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2012-10-13T15:12:44.646-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2012-10-13T15:12:44.646-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:44.646-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:44.646-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)
+2012-10-13T15:12:44.818-04:00: Exception in thread "AWT-EventQueue-0" java.lang.Error: Unresolved compilation problems: 
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+
+2012-10-13T15:12:44.818-04:00: 	at edu.cusat.gs.gui.GroundSystemsPanel.<init>(GroundSystemsPanel.java:123)
+2012-10-13T15:12:44.818-04:00: 	at jsattrak.gui.JSatTrak.showTritonInternalFrame(JSatTrak.java:2699)
+2012-10-13T15:12:44.818-04:00: 	at jsattrak.gui.JSatTrak.jButtonTritonActionPerformed(JSatTrak.java:1557)
+2012-10-13T15:12:44.818-04:00: 	at jsattrak.gui.JSatTrak.access$8(JSatTrak.java:1556)
+2012-10-13T15:12:44.818-04:00: 	at jsattrak.gui.JSatTrak$8.actionPerformed(JSatTrak.java:877)
+2012-10-13T15:12:44.818-04:00: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:44.818-04:00: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+2012-10-13T15:12:44.818-04:00: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:44.818-04:00: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+2012-10-13T15:12:44.818-04:00: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at org.jvnet.substance.utils.RolloverButtonListener.mouseReleased(RolloverButtonListener.java:111)
+2012-10-13T15:12:44.833-04:00: 	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at java.awt.Component.processMouseEvent(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at java.awt.Component.processEvent(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at java.awt.Container.processEvent(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:44.833-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:44.833-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:44.849-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:44.849-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2012-10-13T15:12:44.849-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2012-10-13T15:12:44.849-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2012-10-13T15:12:44.849-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2012-10-13T15:12:44.849-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:44.849-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:44.849-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)
+2012-10-13T15:12:45.083-04:00: Exception in thread "AWT-EventQueue-0" java.lang.Error: Unresolved compilation problems: 
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+
+2012-10-13T15:12:45.083-04:00: 	at edu.cusat.gs.gui.GroundSystemsPanel.<init>(GroundSystemsPanel.java:123)
+2012-10-13T15:12:45.083-04:00: 	at jsattrak.gui.JSatTrak.showTritonInternalFrame(JSatTrak.java:2699)
+2012-10-13T15:12:45.083-04:00: 	at jsattrak.gui.JSatTrak.jButtonTritonActionPerformed(JSatTrak.java:1557)
+2012-10-13T15:12:45.083-04:00: 	at jsattrak.gui.JSatTrak.access$8(JSatTrak.java:1556)
+2012-10-13T15:12:45.083-04:00: 	at jsattrak.gui.JSatTrak$8.actionPerformed(JSatTrak.java:877)
+2012-10-13T15:12:45.083-04:00: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at org.jvnet.substance.utils.RolloverButtonListener.mouseReleased(RolloverButtonListener.java:111)
+2012-10-13T15:12:45.099-04:00: 	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at java.awt.Component.processMouseEvent(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at java.awt.Component.processEvent(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at java.awt.Container.processEvent(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:45.099-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:45.099-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:45.115-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:45.115-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2012-10-13T15:12:45.115-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2012-10-13T15:12:45.115-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2012-10-13T15:12:45.115-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2012-10-13T15:12:45.115-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:45.115-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:45.115-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)
+2012-10-13T15:12:46.537-04:00: Exception in thread "AWT-EventQueue-0" java.lang.Error: Unresolved compilation problems: 
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	satChooser cannot be resolved
+	satChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type DefaultComboBoxModel is not generic; it cannot be parameterized with arguments <String>
+	gsChooser cannot be resolved
+	gsChooser cannot be resolved
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+	The type JComboBox is not generic; it cannot be parameterized with arguments <String>
+
+2012-10-13T15:12:46.537-04:00: 	at edu.cusat.gs.gui.GroundSystemsPanel.<init>(GroundSystemsPanel.java:123)
+2012-10-13T15:12:46.537-04:00: 	at jsattrak.gui.JSatTrak.showTritonInternalFrame(JSatTrak.java:2699)
+2012-10-13T15:12:46.537-04:00: 	at jsattrak.gui.JSatTrak.jButtonTritonActionPerformed(JSatTrak.java:1557)
+2012-10-13T15:12:46.537-04:00: 	at jsattrak.gui.JSatTrak.access$8(JSatTrak.java:1556)
+2012-10-13T15:12:46.537-04:00: 	at jsattrak.gui.JSatTrak$8.actionPerformed(JSatTrak.java:877)
+2012-10-13T15:12:46.537-04:00: 	at javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:46.537-04:00: 	at javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at javax.swing.DefaultButtonModel.setPressed(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at org.jvnet.substance.utils.RolloverButtonListener.mouseReleased(RolloverButtonListener.java:111)
+2012-10-13T15:12:46.552-04:00: 	at java.awt.AWTEventMulticaster.mouseReleased(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at java.awt.Component.processMouseEvent(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at javax.swing.JComponent.processMouseEvent(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at java.awt.Component.processEvent(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at java.awt.Container.processEvent(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at java.awt.Component.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at java.awt.Container.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at java.awt.Window.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at java.awt.Component.dispatchEvent(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at java.awt.EventQueue$1.run(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:46.552-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:46.552-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:46.568-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:46.568-04:00: 	at java.awt.EventQueue$2.run(Unknown Source)
+2012-10-13T15:12:46.568-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2012-10-13T15:12:46.568-04:00: 	at java.security.AccessControlContext$1.doIntersectionPrivilege(Unknown Source)
+2012-10-13T15:12:46.568-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2012-10-13T15:12:46.568-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2012-10-13T15:12:46.568-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2012-10-13T15:12:46.568-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2012-10-13T15:12:46.568-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:46.568-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2012-10-13T15:12:46.568-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CUSatRepository/!svn/ver/6536/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rotator
+END
+RotatorModelListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rotator/RotatorModelListener.java
+END
+RotatorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rotator/RotatorFactory.java
+END
+MockRotator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CUSatRepository/!svn/ver/6376/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rotator/MockRotator.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rotator/Filter.java
+END
+GroundPass.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CUSatRepository/!svn/ver/4688/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rotator/GroundPass.java
+END
+GroundPassTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rotator/GroundPassTest.java
+END
+BasicFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rotator/BasicFilter.java
+END
+BasicFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rotator/BasicFilterTest.java
+END
+YaesuGs232B.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CUSatRepository/!svn/ver/6536/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rotator/YaesuGs232B.java
+END
+YaesuGs232BTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CUSatRepository/!svn/ver/6314/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rotator/YaesuGs232BTest.java
+END
+Rotator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CUSatRepository/!svn/ver/5606/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rotator/Rotator.java
+END
+RotatorModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CUSatRepository/!svn/ver/5516/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rotator/RotatorModel.java
+END
+RotatorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CUSatRepository/!svn/ver/6443/GroundCode/trunk/JSatTrak/src/edu/cusat/gs/rotator/RotatorController.java
+END

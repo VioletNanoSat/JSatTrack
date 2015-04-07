@@ -1,0 +1,58 @@
+2013-09-28T16:00:54.951-04:00: Custom TLE data loaded from file: (Custom,amsat)amsat.txt
+2013-09-28T16:00:54.967-04:00: Custom TLE data loaded from file: (Custom,cusat)cusat.txt
+2013-09-28T16:01:01.311-04:00: Satellite Added to Scenario: CUSAT
+2013-09-28T16:01:04.748-04:00: Deleted Satellite: ISS (ZARYA)             
+2013-09-28T16:04:07.373-04:00: Custom TLE data loaded from file: (Custom,amsat)amsat.txt
+2013-09-28T16:04:07.373-04:00: Custom TLE data loaded from file: (Custom,cusat)cusat.txt
+2013-09-28T16:11:45.482-04:00: Custom Satellite Added: CUSaT
+2013-09-28T17:04:19.216-04:00: -----------------------------
+2013-09-28T17:04:19.247-04:00: Mission propogation initiated.
+
+2013-09-28T17:04:20.966-04:00: 
+Mission propogation finished. (1.719 s)
+2013-09-28T17:04:20.966-04:00: -----------------------------
+
+2013-09-28T17:04:21.013-04:00: CUSaT - Finished Propogating; CPU time [s]: 1.719
+2013-09-28T17:05:16.106-04:00: -----------------------------
+2013-09-28T17:05:16.106-04:00: Mission propogation initiated.
+
+2013-09-28T17:05:44.184-04:00: Exception in thread "AWT-EventQueue-0" java.lang.ArrayIndexOutOfBoundsException: 0
+2013-09-28T17:05:44.231-04:00: 	at jsattrak.objects.CustomSatellite.propogate2JulDate(CustomSatellite.java:266)
+2013-09-28T17:05:44.231-04:00: 	at jsattrak.gui.JSatTrak.updateTime(JSatTrak.java:2269)
+2013-09-28T17:05:44.231-04:00: 	at jsattrak.gui.JSatTrak$57.actionPerformed(JSatTrak.java:1952)
+2013-09-28T17:05:44.231-04:00: 	at javax.swing.Timer.fireActionPerformed(Unknown Source)
+2013-09-28T17:05:44.231-04:00: 	at javax.swing.Timer$DoPostEvent.run(Unknown Source)
+2013-09-28T17:05:44.231-04:00: 	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+2013-09-28T17:05:44.231-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2013-09-28T17:05:44.231-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2013-09-28T17:05:44.231-04:00: 	at java.awt.EventQueue$3.run(Unknown Source)
+2013-09-28T17:05:44.231-04:00: 	at java.awt.EventQueue$3.run(Unknown Source)
+2013-09-28T17:05:44.231-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2013-09-28T17:05:44.231-04:00: 	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+2013-09-28T17:05:44.231-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2013-09-28T17:05:44.231-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2013-09-28T17:05:44.231-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2013-09-28T17:05:44.231-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2013-09-28T17:05:44.231-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2013-09-28T17:05:44.231-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2013-09-28T17:05:44.231-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)
+2013-09-28T17:06:11.216-04:00: Exception in thread "AWT-EventQueue-0" java.lang.ArrayIndexOutOfBoundsException: 0
+2013-09-28T17:06:11.216-04:00: 	at jsattrak.objects.CustomSatellite.propogate2JulDate(CustomSatellite.java:266)
+2013-09-28T17:06:11.216-04:00: 	at jsattrak.gui.JSatTrak.updateTime(JSatTrak.java:2269)
+2013-09-28T17:06:11.216-04:00: 	at jsattrak.gui.JSatTrak$57.actionPerformed(JSatTrak.java:1952)
+2013-09-28T17:06:11.216-04:00: 	at javax.swing.Timer.fireActionPerformed(Unknown Source)
+2013-09-28T17:06:11.216-04:00: 	at javax.swing.Timer$DoPostEvent.run(Unknown Source)
+2013-09-28T17:06:11.216-04:00: 	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+2013-09-28T17:06:11.216-04:00: 	at java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+2013-09-28T17:06:11.216-04:00: 	at java.awt.EventQueue.access$000(Unknown Source)
+2013-09-28T17:06:11.216-04:00: 	at java.awt.EventQueue$3.run(Unknown Source)
+2013-09-28T17:06:11.216-04:00: 	at java.awt.EventQueue$3.run(Unknown Source)
+2013-09-28T17:06:11.216-04:00: 	at java.security.AccessController.doPrivileged(Native Method)
+2013-09-28T17:06:11.216-04:00: 	at java.security.ProtectionDomain$1.doIntersectionPrivilege(Unknown Source)
+2013-09-28T17:06:11.216-04:00: 	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+2013-09-28T17:06:11.216-04:00: 	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+2013-09-28T17:06:11.216-04:00: 	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+2013-09-28T17:06:11.216-04:00: 	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+2013-09-28T17:06:11.216-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2013-09-28T17:06:11.216-04:00: 	at java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+2013-09-28T17:06:11.216-04:00: 	at java.awt.EventDispatchThread.run(Unknown Source)

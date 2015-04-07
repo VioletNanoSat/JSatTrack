@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/propogators/solvers
+END
+OrbitProblem.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/propogators/solvers/OrbitProblem.java
+END
+RungeKutta78.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/propogators/solvers/RungeKutta78.java
+END
+ApsisStopCond.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/propogators/solvers/ApsisStopCond.java
+END
+StoppingCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/propogators/solvers/StoppingCondition.java
+END
+RungeKutta4.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CUSatRepository/!svn/ver/4514/GroundCode/trunk/JSatTrak/src/name/gano/astro/propogators/solvers/RungeKutta4.java
+END
